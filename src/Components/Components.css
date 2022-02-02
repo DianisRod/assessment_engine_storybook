@@ -1,0 +1,26 @@
+.button {
+  color: white;
+  font-weight: bold;
+  background-color: blueviolet;
+  border: none;
+  padding: 0.8em 1em;
+  border-radius: 0.2rem;
+}
+
+.title {
+  color: white;
+  font-weight: bold;
+  background-color: red;
+  border: none;
+  padding: 0.8em 1em;
+  border-radius: 0.2rem;
+}
+
+.label {
+  color: white;
+  font-weight: bold;
+  background-color: red;
+  border: none;
+  padding: 0.8em 1em;
+  border-radius: 0.2rem;
+}
